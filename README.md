@@ -53,8 +53,7 @@ Para executar o projeto e replicar os resultados, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-    cd SEU-REPOSITORIO
+    git clone https://github.com/PedroMesquitaIsidoro/Perfis-de-pilotos---F1-2024.git
     ```
 
 2.  **Instale as dependências:**
